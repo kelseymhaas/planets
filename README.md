@@ -3,4 +3,4 @@ Exploring the solar system
 
 Files include:
 mars.txt - Contains notes about Mars.
-pluto.txt - Contains regreat that Pluto is no longer a planet.
+pluto.txt - Contains regret that Pluto is no longer a planet.
